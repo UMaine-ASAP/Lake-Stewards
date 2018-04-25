@@ -1,1 +1,1 @@
-# Lake-Stewards
+# Lake Stewards
